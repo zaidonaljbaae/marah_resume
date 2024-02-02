@@ -1304,7 +1304,6 @@ section {
 
 /* Style for each photo */
 .photo {
-  width: 30%;
   height: 300px;
   cursor: pointer;
   transition: transform 0.3s;
